@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  halsaskytterlag.no:
+    image: ${DOCKER_REGISTRY-}halsaskytterlag
+    build:
+      context: .
+      dockerfile: halsaskytterlag.no/Dockerfile
