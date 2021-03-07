@@ -7,6 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\img\slide\" />
+    <None Include="halsaskytterlag.no.csproj" />
   </ItemGroup>
 </Project>
