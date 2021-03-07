@@ -6,4 +6,7 @@
     <UserSecretsId>bad83b12-d69c-49e8-b7fc-3eeb5ecf1fde</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\slide\" />
+  </ItemGroup>
 </Project>
