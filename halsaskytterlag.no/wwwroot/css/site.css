@@ -156,6 +156,14 @@ h1, h2, h3, h4, h5, h6 {
         float: left;
     }
 
+    .nav-menu > ul > .buymeacoffee > a {
+        padding-top: 5px;
+    }
+        
+        .nav-menu > ul > .buymeacoffee > a > img {
+            height: 38px;	
+	    }
+
     .nav-menu a {
         display: block;
         position: relative;
@@ -1663,7 +1671,7 @@ section {
                 padding: 0 20px 0 0;
                 font-size: 14px;
             }
-
+            
                 .blog .entry .entry-footer .cats li {
                     display: inline-block;
                 }
@@ -2196,3 +2204,4 @@ section {
         font-size: 13px;
         color: #fff;
     }
+
